@@ -21,7 +21,7 @@ public class Main {
         System.out.println("Hola caracola 2");
     }
     private static void metodo3() {
-
+        System.out.println("hola metodo 3");
     }
     private static void metodo4() {
 
