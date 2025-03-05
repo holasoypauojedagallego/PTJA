@@ -18,8 +18,7 @@ public class Main {
         System.out.println("Hola soy Pau");
     }
     private static void metodo2() {
-
-        System.out.println("Hola caracola");
+        System.out.println("Hola caracola 2");
     }
     private static void metodo3() {
 
