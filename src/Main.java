@@ -19,6 +19,7 @@ public class Main {
     }
     private static void metodo2() {
 
+        System.out.println("Hola caracola");
     }
     private static void metodo3() {
 
