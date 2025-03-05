@@ -15,7 +15,7 @@ public class Main {
     }
 
     private static void metodo1() {
-
+        System.out.println("Hola soy Pau");
     }
     private static void metodo2() {
 
